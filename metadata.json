@@ -1,0 +1,7 @@
+{
+  "name": "Virtual Integrated Management System (VIMS) Proto 1",
+  "description": "Visitor Integrated Management System for monitoring staff and visitor access with real-time analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
